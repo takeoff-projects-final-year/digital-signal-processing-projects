@@ -30,7 +30,7 @@ Developing a DSP projects can be a complex and challenging task, but the followi
 •	Test and validate your project: Finally, you should thoroughly test and validate your project to ensure that it meets the project goals and requirements. This could involve testing with real-world data, benchmarking against other projects, and getting feedback from users.
 
 
-Takeoff Edu Group: Takeoff Edu Group also well known as Takeoff Projects – Provide wide range of Digital Signal Processing Projects for Students. Also provide Final Year Project Assistance. Overall, Takeoff Projects deep learning projects can provide engineering students with a powerful set of tools for solving complex problems and developing innovative solutions in a wide range of fields.
+Takeoff Edu Group: Takeoff Edu Group also well known as Takeoff Projects – Provide wide range of Digital Signal Processing Projects for Students. Also provide Final Year Project Assistance. Overall, Takeoff Projects Digital Signal Processing Projects can provide engineering students with a powerful set of tools for solving complex problems and developing innovative solutions in a wide range of fields.
 
 Digital Signal Processing Projects - https://takeoffprojects.com/dsp-projects
 
